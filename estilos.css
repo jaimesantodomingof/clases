@@ -1,5 +1,5 @@
 h1{
-	color:#1F0B57;
+	color:#152089;
 	font-family: sans-serif;
 	font-size: 24pt;
 	border-style: groove;
@@ -8,18 +8,30 @@ h1{
 	border-radius: 20px;
 	margin-right: 1100px;
 }
+img{
+	display: inline-block;
+	margin-right: 50px;
+	margin-left: 10px;
+}
 h2{
-	color:#0A20A4;
+	color:#170D95;
 	font-family: 'Fjalla One', sans-serif;
 	font-size: 18pt;
-
 }
 h4{
 	color:#474FEF;
 	font-family: 'Fjalla One', sans-serif;
 	font-size: 12pt;
+}
+.enlace:hover{
+	color: #474FEF;
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 10pt;
+	display: inline-block;
+
 
 }
+
 
 img{
 	float: left;
@@ -32,4 +44,4 @@ p{
 strong{
 	
  }
-}
+
