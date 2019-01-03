@@ -1,14 +1,35 @@
 h1{
-	color:#0E9DB7;
+	color:#1F0B57;
 	font-family: sans-serif;
-	font-size: 18pt;
+	font-size: 24pt;
 	border-style: groove;
 	border-color: black;
 	border-width: 5px;
 	border-radius: 20px;
-	margin-right: 1170px;
+	margin-right: 1100px;
+}
+h2{
+	color:#0A20A4;
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 18pt;
 
 }
+h4{
+	color:#474FEF;
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 12pt;
+
+}
+
+img{
+	float: left;
+	width: 180px;
+}
+
 p{
 
+}
+strong{
+	
+ }
 }
