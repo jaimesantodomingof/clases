@@ -1,3 +1,6 @@
+body{
+	background-color: #F8EDBA
+}
 h1{
 	color:#152089;
 	font-family: sans-serif;
@@ -37,11 +40,4 @@ img{
 	float: left;
 	width: 180px;
 }
-
-p{
-
-}
-strong{
-	
- }
 

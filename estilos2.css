@@ -1,9 +1,37 @@
+body{
+	background-color: #F8EDBA
+}
 h1{
 	color: #6D64E8;
 	border-style: ridge;
 	border-color: #211198;
 	display: inline-block;
 	font-family: 'Kanit', sans-serif;
+}
+.encabezado{
+	width: 100%;
+	border-style: outset;
 	
-
+	border-color: #655EC1;
+}
+h4{
+	color:#474FEF;
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 12pt;
+}
+.profesor{
+	font-family: 'Charm', cursive;
+	background-color: #C2D2EB;
+	display: inline-block;
+}
+strong{
+	font-family: 'Viga', sans-serif;
+	color: #4B0D65
+}
+mark{
+	background-color: #EAA6A6;
+	font-family: 'Dosis', sans-serif;
+}
+.contenidos{
+	font-family: 'Dosis', sans-serif;
 }
