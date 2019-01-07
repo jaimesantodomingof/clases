@@ -13,8 +13,9 @@ h1{
 	height: 400px;
 	border-style: outset;
 	border-color: #655EC1;
-
 }
+/*formato, tamaño y posición de las imágenes que encabezan la página*/
+
 h4{
 	color:#474FEF;
 	font-family: 'Fjalla One', sans-serif;
@@ -24,6 +25,7 @@ h4{
 	font-family: 'Charm', cursive;
 	background-color: #C2D2EB;
 	display: inline-block;
+/*formato para el nombre de los profesores*/
 }
 strong{
 	font-family: 'Viga', sans-serif;
@@ -36,3 +38,4 @@ mark{
 .contenidos{
 	font-family: 'Dosis', sans-serif;
 }
+/*formato para los índices de contenidos*/

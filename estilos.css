@@ -1,6 +1,7 @@
 body{
 	background-color: #F8EDBA
 }
+/*color de fondo en toda la pagina web*/
 h1{
 	color:#152089;
 	font-family: sans-serif;
@@ -10,16 +11,21 @@ h1{
 	border-width: 5px;
 	border-radius: 20px;
 	margin-right: 1100px;
+	/*formato y posición del título principal*/
 }
 img{
 	display: inline-block;
 	margin-right: 50px;
 	margin-left: 10px;
+	float: left;
+	width: 180px;
+/*formato para la foto*/
 }
 h2{
 	color:#170D95;
 	font-family: 'Fjalla One', sans-serif;
 	font-size: 18pt;
+
 }
 h4{
 	color:#474FEF;
@@ -31,13 +37,7 @@ h4{
 	font-family: 'Fjalla One', sans-serif;
 	font-size: 10pt;
 	display: inline-block;
-
-
 }
+/*formato para los enlaces a las asignaturas*/
 
-
-img{
-	float: left;
-	width: 180px;
-}
 
